@@ -72,8 +72,8 @@ a {
 }
 
 .article-loop {
-    width: 45%;
-    text-align: left;
+    width: 100%;
+    text-align: center;
     margin: 5px;
     padding: 10px;
 }
