@@ -12,7 +12,7 @@
 <body>
 
     <div class="container">
-        <header class="">Inicial Theme</header>
+        <header class="">Mijo Brands Theme</header>
 
         <main>
             <?php
