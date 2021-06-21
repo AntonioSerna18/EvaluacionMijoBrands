@@ -1,0 +1,19 @@
+/*
+    Theme Name: My Theme Mijo Brands
+    Author: Félix Serna
+    Description: My first responsive HTML5 theme
+    Version: 1.0
+    License: GNU General Public License v3 or later
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    width: 1152px;
+    height: 1992px;
+
+    background: #FFFFFF;
+}
