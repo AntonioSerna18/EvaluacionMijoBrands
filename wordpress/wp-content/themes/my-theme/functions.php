@@ -20,4 +20,4 @@
         register_nav_menu('header-menu', _( 'Header Menu' ));
     }
 
-    add_action( 'init', 'add_Main_Menu' );
+    add_action( 'init', 'add_Main_Nav' );
