@@ -12,7 +12,6 @@
                         <?php the_title(); ?>
                     </a>
                 </h2>
-                By: <?php the_author(); ?>
             </header>
             <?php the_excerpt(); ?>
         </article>
