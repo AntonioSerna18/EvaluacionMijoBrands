@@ -29,7 +29,7 @@
         </main>
 
         <footer>
-            Félix Serna | 2021
+            © Félix Serna | 2021
         </footer>
     </div>
     
